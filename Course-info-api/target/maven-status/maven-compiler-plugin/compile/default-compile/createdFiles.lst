@@ -1,0 +1,3 @@
+com\pluralsight\courseinfo\cli\CourseRetriever.class
+com\pluralsight\courseinfo\cli\service\PluralSightCourse.class
+com\pluralsight\courseinfo\cli\service\courseRetrievalService.class
